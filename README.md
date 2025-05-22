@@ -1,6 +1,7 @@
 # QQ音乐评论爬虫
 
 一个用于爬取QQ音乐歌曲评论并进行数据分析的Python工具。
+![image](https://github.com/user-attachments/assets/09a44491-0edb-4f56-b1b1-d08f2576d239)
 
 ## 功能特性
 
